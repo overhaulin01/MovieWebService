@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/xsl" href="xsltMovie.xsl"?><movies>
+
+    <film>
+        <title>Paranormal Activity</title>
+        <year>2007</year>
+        <types>
+            <type>Horror</type>
+        </types>
+        <time>86 min</time>
+        <director>Oren Peli</director>
+    </film>
+
+    <film>
+        <title>Paranormal Activity2</title>
+        <year>2010</year>
+        <types>
+            <type>Horror</type>
+        </types>
+        <time>91 min</time>
+        <director>Tod Williams</director>
+    </film>
+
+    <film>
+        <title>Insidious</title>
+        <year>2010</year>
+        <types>
+            <type>Fantasy</type>
+            <type>Horror</type>
+            <type>Mystery</type>
+        </types>
+        <time>103 min</time>
+        <director>James Wan</director>
+    </film>
+
+    <film>
+        <title>Insidious: Chapter 2</title>
+        <year>2013</year>
+        <types>
+            <type>Fantasy</type>
+            <type>Horror</type>
+            <type>Thriller</type>
+        </types>
+        <time>106 min</time>
+        <director>James Wan</director>
+    </film>
+
+    <film>
+        <title>Paranormal Activity: The Marked Ones</title>
+        <year>2014</year>
+        <types>
+            <type>Fantasy</type>
+            <type>Horror</type>
+            <type>Thriller</type>
+        </types>
+        <time>84 min</time>
+        <director>Christopher Landon</director>
+    </film>
+
+    <film>
+        <title>Devil</title>
+        <year>2010</year>
+        <types>
+            <type>Horror</type>
+            <type>Mystery</type>
+            <type>Thriller</type>
+        </types>
+        <time>80 min</time>
+        <director>John Erick Dowdle</director>
+    </film>
+
+    <film>
+        <title>Lights Out</title>
+        <year>2016</year>
+        <types>
+            <type>Horror</type>
+        </types>
+        <time>81 min</time>
+        <director>David F. Sandberg</director>
+    </film>
+
+    <film>
+        <title>10 Cloverfield Lane</title>
+        <year>2016</year>
+        <types>
+            <type>Drama</type>
+            <type>Horror</type>
+            <type>Mystery</type>
+        </types>
+        <time>104 min</time>
+        <director>Dan Trachtenberg</director>
+    </film>
+
+    <film>
+        <title>Cloverfield</title>
+        <year>2008</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Horror</type>
+        </types>
+        <time>85 min</time>
+        <director>Matt Reeves</director>
+    </film>
+
+    <film>
+        <title>Triangle</title>
+        <year>2009</year>
+        <types>
+            <type>Fantasy</type>
+            <type>Mystery</type>
+            <type>Thriller</type>
+        </types>
+        <time>99 min</time>
+        <director>Christopher Smith</director>
+    </film>
+
+    <film>
+        <title>Raiders of the Lost Ark</title>
+        <year>1981</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+        </types>
+        <time>115 min</time>
+        <director>Steven Spielberg</director>
+    </film>
+
+    <film>
+        <title>Indiana Jones and the Temple of Doom</title>
+        <year>1984</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+        </types>
+        <time>118 min</time>
+        <director>Steven Spielberg</director>
+    </film>
+
+    <film>
+        <title>Indiana Jones and the Last Crusade</title>
+        <year>1989</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>127 min</time>
+        <director>Steven Spielberg</director>
+    </film>
+
+    <film>
+        <title>Indiana Jones and the Kingdom of the Crystal Skull</title>
+        <year>2008</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>122 min</time>
+        <director>Steven Spielberg</director>
+    </film>
+
+    <film>
+        <title>The Mummy</title>
+        <year>1999</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>125 min</time>
+        <director>Stephen Sommers</director>
+    </film>
+
+    <film>
+        <title>The Mummy Returns</title>
+        <year>2001</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>130 min</time>
+        <director>Stephen Sommers</director>
+    </film>
+
+    <film>
+        <title>The Mummy: Tomb of the Dragon Emperor</title>
+        <year>2008</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>112 min</time>
+        <director>Rob Cohen</director>
+    </film>
+
+    <film>
+        <title>Van Helsing</title>
+        <year>2004</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>131 min</time>
+        <director>Stephen Sommers</director>
+    </film>
+
+    <film>
+        <title>Hellboy</title>
+        <year>2004</year>
+        <types>
+            <type>Action</type>
+            <type>Fantasy</type>
+            <type>Horror</type>
+        </types>
+        <time>122 min</time>
+        <director>Guillermo del Toro</director>
+    </film>
+
+    <film>
+        <title>Hellboy II: The Golden Army</title>
+        <year>2008</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>120 min</time>
+        <director>Guillermo del Toro</director>
+    </film>
+
+    <film>
+        <title>The Big Lebowski</title>
+        <year>1998</year>
+        <types>
+            <type>Comedy</type>
+            <type>Crime</type>
+        </types>
+        <time>117 min</time>
+        <director>Joel Coen</director>
+    </film>
+
+    <film>
+        <title>Finding Dory</title>
+        <year>2016</year>
+        <types>
+            <type>Comedy</type>
+            <type>Animation</type>
+            <type>Adventure</type>
+        </types>
+        <time>97 min</time>
+        <director>Andrew Stanton</director>
+    </film>
+
+    <film>
+        <title>Pirates of the Caribbean: Dead Man's Chest</title>
+        <year>2006</year>
+        <types>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>150 min</time>
+        <director>Gore Verbinski</director>
+    </film>
+
+    <film>
+        <title>Frozen</title>
+        <year>2013</year>
+        <types>
+            <type>Animation</type>
+            <type>Fantasy</type>
+            <type>Drama</type>
+        </types>
+        <time>102 min</time>
+        <director>Chris Buck</director>
+    </film>
+
+    <film>
+        <title>The Lion King</title>
+        <year>1994</year>
+        <types>
+            <type>Adventure</type>
+            <type>Fantasy</type>
+        </types>
+        <time>88 min</time>
+        <director>Roger Allers</director>
+    </film>
+
+    <film>
+        <title>Toy Story 3</title>
+        <year>2010</year>
+        <types>
+            <type>Comedy</type>
+            <type>Fantasy</type>
+            <type>Animation</type>
+        </types>
+        <time>103 min</time>
+        <director>Lee Unkrich</director>
+    </film>
+
+    <film>
+        <title>Finding Nemo</title>
+        <year>2003</year>
+        <types>
+            <type>Adventure</type>
+            <type>Animation</type>
+            <type>Comedy</type>
+        </types>
+        <time>100 min</time>
+        <director>Andrew Stanton</director>
+    </film>
+
+    <film>
+        <title>Alice in Wonderland</title>
+        <year>2010</year>
+        <types>
+            <type>Fantasy</type>
+        </types>
+        <time>108 min</time>
+        <director>Tim Burton</director>
+    </film>
+
+    <film>
+        <title>Cars</title>
+        <year>2006</year>
+        <types>
+            <type>Adventure</type>
+            <type>Animation</type>
+            <type>Comedy</type>
+        </types>
+        <time>116 min</time>
+        <director>John Lasseter</director>
+    </film>
+
+    <film>
+        <title>Maleficent</title>
+        <year>2014</year>
+        <types>
+            <type>Fantasy</type>
+        </types>
+        <time>97 min</time>
+        <director>Robert Stromberg</director>
+    </film>
+
+    <film>
+        <title>Rango</title>
+        <year>2011</year>
+        <types>
+            <type>Animation</type>
+            <type>Adventure</type>
+            <type>Comedy</type>
+        </types>
+        <time>107 min</time>
+        <director>Gore Verbinski</director>
+    </film>
+
+    <film>
+        <title>Money Monster</title>
+        <year>2016</year>
+        <types>
+            <type>Crime</type>
+            <type>Drama</type>
+            <type>Thriller</type>
+        </types>
+        <time>98 min</time>
+        <director>Jodie Foster</director>
+    </film>
+
+    <film>
+        <title>The Secret Life of Pets</title>
+        <year>2016</year>
+        <types>
+            <type>Animation</type>
+            <type>Comedy</type>
+            <type>Family</type>
+        </types>
+        <time>87 min</time>
+        <director>Yarrow Cheney</director>
+    </film>
+
+    <film>
+        <title>Accepted</title>
+        <year>2006</year>
+        <types>
+            <type>Comedy</type>
+        </types>
+        <time>93 min</time>
+        <director>Steve Pink</director>
+    </film>
+
+    <film>
+        <title>Ghostbusters I</title>
+        <year>1984</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Comedy</type>
+        </types>
+        <time>105 min</time>
+        <director>Ivan Reitman</director>
+    </film>
+
+    <film>
+        <title>Ghostbuster II</title>
+        <year>1989</year>
+        <types>
+            <type>Action</type>
+            <type>Comedy</type>
+            <type>Fantasy</type>
+        </types>
+        <time>108 min</time>
+        <director>Ivan Reitman</director>
+    </film>
+
+    <film>
+        <title>Charlie's Angel</title>
+        <year>2000</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Comedy</type>
+        </types>
+        <time>98 min</time>
+        <director>McG</director>
+    </film>
+
+    <film>
+        <title>Divergent</title>
+        <year>2014</year>
+        <types>
+            <type>Adventure</type>
+            <type>Mystery</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>139 min</time>
+        <director>Neil Burger</director>
+    </film>
+
+    <film>
+        <title>Insurgent</title>
+        <year>2015</year>
+        <types>
+            <type>Adventure</type>
+            <type>Sci-Fi</type>
+            <type>Thriller</type>
+        </types>
+        <time>119 min</time>
+        <director>Robert Schwentke</director>
+    </film>
+
+    <film>
+        <title>Allegiant</title>
+        <year>2016</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Mystery</type>
+        </types>
+        <time>120 min</time>
+        <director>Robert Schwentke</director>
+    </film>
+
+    <film>
+        <title>Interstellar</title>
+        <year>2014</year>
+        <types>
+            <type>Adventure</type>
+            <type>Drama</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>169 min</time>
+        <director>Christopher Nolan</director>
+    </film>
+
+    <film>
+        <title>The Martian</title>
+        <year>2015</year>
+        <types>
+            <type>Adventure</type>
+            <type>Drama</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>144 min</time>
+        <director>Ridley Scott</director>
+    </film>
+
+    <film>
+        <title>Inception</title>
+        <year>2010</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>148 min</time>
+        <director>Christopher Nolan</director>
+    </film>
+
+    <film>
+        <title>Now You See Me</title>
+        <year>2013</year>
+        <types>
+            <type>Crime</type>
+            <type>Mystery</type>
+            <type>Thriller</type>
+        </types>
+        <time>115 min</time>
+        <director>Louis Leterrier</director>
+    </film>
+
+    <film>
+        <title>Deadpool</title>
+        <year>2016</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Comedy</type>
+        </types>
+        <time>108 min</time>
+        <director>Tim Miller</director>
+    </film>
+
+    <film>
+        <title>The Prestige</title>
+        <year>2006</year>
+        <types>
+            <type>Drama</type>
+            <type>Mystery</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>130 min</time>
+        <director>Christopher Nolan</director>
+    </film>
+
+    <film>
+        <title>Snowpiercer</title>
+        <year>2013</year>
+        <types>
+            <type>Action</type>
+            <type>Drama</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>126 min</time>
+        <director>Joon-ho Bong</director>
+    </film>
+
+    <film>
+        <title>The Wolf of Wall Street</title>
+        <year>2013</year>
+        <types>
+            <type>Biography</type>
+            <type>Comedy</type>
+            <type>Crime</type>
+        </types>
+        <time>180 min</time>
+        <director>Martin Scorsese</director>
+    </film>
+
+    <film>
+        <title>Limitless</title>
+        <year>2011</year>
+        <types>
+            <type>Mystery</type>
+            <type>Sci-Fi</type>
+            <type>Thriller</type>
+        </types>
+        <time>105 min</time>
+        <director>Neil Burger</director>
+    </film>
+
+    <film>
+        <title>The Last Airbender</title>
+        <year>2010</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Family</type>
+        </types>
+        <time>103 min</time>
+        <director>M. Night Shyamalan</director>
+    </film>
+
+    <film>
+        <title>Batman Begins</title>
+        <year>2005</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+        </types>
+        <time>140 min</time>
+        <director>Christopher Nolan</director>
+    </film>
+
+    <film>
+        <title>Flight Club</title>
+        <year>1999</year>
+        <types>
+            <type>Drama</type>
+        </types>
+        <time>139 min</time>
+        <director>David Fincher</director>
+    </film>
+
+    <film>
+        <title>Se7en</title>
+        <year>1995</year>
+        <types>
+            <type>Crime</type>
+            <type>Drama</type>
+            <type>Mystery</type>
+        </types>
+        <time>127 min</time>
+        <director>David Fincher</director>
+    </film>
+
+    <film>
+        <title>The Shawshank Redemption</title>
+        <year>1994</year>
+        <types>
+            <type>Crime</type>
+            <type>Drama</type>
+            <type>Mystery</type>
+        </types>
+        <time>144 min</time>
+        <director>Frank Darabont</director>
+    </film>
+
+    <film>
+        <title>Forrest Gump</title>
+        <year>1994</year>
+        <types>
+            <type>Comedy</type>
+            <type>Drama</type>
+        </types>
+        <time>142 min</time>
+        <director>Robert Zemeckis</director>
+    </film>
+
+    <film>
+        <title>Prisoners</title>
+        <year>2013</year>
+        <types>
+            <type>Crime</type>
+            <type>Drama</type>
+            <type>Mystery</type>
+        </types>
+        <time>153 min</time>
+        <director>Denis Villeneuve</director>
+    </film>
+
+    <film>
+        <title>Iron Man</title>
+        <year>2008</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>126 min</time>
+        <director>Jon Favreau</director>
+    </film>
+
+    <film>
+        <title>Iron Man2</title>
+        <year>2010</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>124 min</time>
+        <director>Jon Favreau</director>
+    </film>
+
+    <film>
+        <title>Iron Man3</title>
+        <year>2013</year>
+        <types>
+            <type>Action</type>
+            <type>Adventure</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>130 min</time>
+        <director>Shane Black</director>
+    </film>
+
+    <film>
+        <title>The Avengers</title>
+        <year>2012</year>
+        <types>
+            <type>Action</type>
+            <type>Thriller</type>
+            <type>Sci-Fi</type>
+        </types>
+        <time>143 min</time>
+        <director>Joss Whedon</director>
+    </film>
+
+<film><title>title</title><year>2016</year><types><type>dscsd</type></types><time>102 min</time><director>ddddd</director></film></movies>
